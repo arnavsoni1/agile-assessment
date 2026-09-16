@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE = 'arnavsoni2007/assessment-build'
+        IMAGE = 'arnavsoni2007/agile-lab-assessment'
     }
 
     stages {
